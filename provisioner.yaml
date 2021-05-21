@@ -1,0 +1,4 @@
+- name: implementing roles
+  hosts: all
+  roles:
+    - roles
